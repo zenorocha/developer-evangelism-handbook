@@ -32,7 +32,7 @@ $ gitbook build book
 - [x] [Work with your own company](book/internal.md)
 - [x] [Prepare for outreach](book/outreach.md)
 - [x] [Get speaking opportunities](book/speaking-opportunities.md)
-- [ ] [Deliver a talk or workshop](book/delivery.md)
+- [x] [Deliver a talk or workshop](book/delivery.md)
 - [ ] [Write great posts and articles](book/writing.md)
 - [ ] [Write excellent code examples](book/code.md)
 - [ ] [Prepare great slide decks for presentations](book/slides.md)
