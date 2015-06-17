@@ -31,6 +31,7 @@ $ gitbook build book
 - [x] [Remove the brand](book/brand-and-competition.md)
 - [x] [Work with your own company](book/internal.md)
 - [x] [Prepare for outreach](book/outreach.md)
+- [x] [Travel and conference participation](book/travel-confs.md)
 - [x] [Get speaking opportunities](book/speaking-opportunities.md)
 - [x] [Deliver a talk or workshop](book/delivery.md)
 - [x] [Write great posts and articles](book/writing.md)
