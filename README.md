@@ -34,7 +34,7 @@ $ gitbook build book
 - [x] [Get speaking opportunities](book/speaking-opportunities.md)
 - [x] [Deliver a talk or workshop](book/delivery.md)
 - [x] [Write great posts and articles](book/writing.md)
-- [ ] [Write excellent code examples](book/code.md)
+- [x] [Write excellent code examples](book/code.md)
 - [ ] [Prepare great slide decks for presentations](book/slides.md)
 - [x] [Record your output](book/record.md)
 - [x] [Know and use the (social) web](book/web.md)
